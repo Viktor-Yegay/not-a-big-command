@@ -1,1 +1,1 @@
-simplegit.rb
+Remove invalid default value
